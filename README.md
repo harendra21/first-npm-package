@@ -69,7 +69,7 @@ So, now we are ready to publish our package. But before publishing the package i
 
 ![npm link](npm-link.PNG)
 
-Now, create a `test-scripe` folder outside our application and create a file `script.js` inside that folder, and copy and paste the following code.
+Now, create a `test-script` folder outside our application and create a file `script.js` inside that folder, and copy and paste the following code.
 
 ![test folder](test-folder.PNG)
 
