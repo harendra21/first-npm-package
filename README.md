@@ -1,10 +1,10 @@
-# How To Create And Publish Your First NPM Package
+# How To Create And Publish Your First NPM Package?
 Creating your first npm package may seem difficult but it's surprisingly very easy. 
 Welcome to today's blog for creating and publishing your first NPM package. In this article, I am going to talk about how you can create your npm package and test it locally. How you can publish it to npm package manager and start installing it for "npm install pacjage_name". So, without wasting your time let's get started to create your npm package.
 
 Table of contents
 
-- [How To Create And Publish Your First NPM Package](#how-to-create-and-publish-your-first-npm-package)
+- [How To Create And Publish Your First NPM Package?](#how-to-create-and-publish-your-first-npm-package)
     - [Step 1: Create git repository with a readme file](#step-1-create-git-repository-with-a-readme-file)
     - [Step 2: Init npm to create package JSON](#step-2-init-npm-to-create-package-json)
     - [Step 3: Create the package script file](#step-3-create-the-package-script-file)
